@@ -1,5 +1,5 @@
 # NetInfoAccEqua
- Codes for ''Information Access Equality on Network Generative Models''
+ Codes for "Information Access Equality on Network Generative Models"
 
 ## Folders
 ### codes
@@ -18,7 +18,7 @@ Store experiment results from `exp_model.py`, `exp_param.py` and `exp_real.py`. 
 Store figures from running `exp_results_draw.py`.
 
 ### datasets
-The datasets is from the paper ''Homophily and minority-group size explain perception biases in social networks'' by Lee et. al. Their github repository link is [NtwPerceptionBias](https://github.com/frbkrm/NtwPerceptionBias).
+The datasets is from the paper "Homophily and minority-group size explain perception biases in social networks" by Lee et. al. Their github repository link is [NtwPerceptionBias](https://github.com/frbkrm/NtwPerceptionBias).
 
 ## Cookbook
 1. run `exp_model.py`, `exp_param.py` and `exp_real.py`
