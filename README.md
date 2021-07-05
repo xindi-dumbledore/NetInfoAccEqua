@@ -1,5 +1,5 @@
 # NetInfoAccEqua
- Codes for "Information Access Equality on Network Generative Models"
+ Codes for "Information Access Equality on Network Generative Models".
 
 ## Folders
 ### codes
